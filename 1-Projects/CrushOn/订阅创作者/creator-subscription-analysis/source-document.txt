@@ -1,0 +1,68 @@
+
+1. 
+1.  a.  i.  ii. 
+2.  a.  b.  i.  1.  ii.  1.  2.  iii. Transaction  1.  a. Subscribe Creator b.  2.  3.  a. +1 Month iv.  c.  i.  ii.  iii.  1. Payabl 2 2. Rapyd 2
+
+3. AW 3 4. 
+a.  5. 
+ 3. 
+a. ""tab i. tab ii. 
+b.  i.  1.  a.  b.  c.  2.  a. OC b.  c.  3. Last Update  a. / OC b. /  ii. Renew/Expire  iii.  1.  a.  i. Auto Renew: On ii.  2.  a.  i. Auto Renew: Off
+
+ii.  b. 
+i.  c. 
+i.  ii. 
+1. "" 2. ""
+a.  i.  1. Turn off auto-renewal, your subscription to this creator will expire automatically once the current period ends. ii.  1. Confirm 2. Cancel
+2. 
+1.  a.  i.  1.  a.  i.  b.  i.  ii.  1.  2.  3.  b. 
+
+i.  1.  a.  x 2. OC a.  x 3.  a.  x
+ii.  c. /
+i.  ii. 
+1.  a. 
+2.  a.  b. 
+2.  a.  i. 4 1. $4.99/mo 2. $14.99/mo 3. $29.99/mo 4. $49.99/mo b.  i.  1.  ii.  1.  a.  2.  a.  Auto Renew Off
+
+b.  i.  1. Changing the subscription tier will terminate all active auto-renew subscriptions. Existing subscribers will no longer be automatically charged upon expiration. ii.  1. Confirm 2. Cancel
+3.  a.  i. 90 b. 
+iii.  3. 
+a. "Subscribers" i.  ii. 
+b.  i.  1.  2.  3.  ii.  1.  2.  3.  iii.  1.  2. 
+c.  i. 
+
+1.  a. Auto Renew Off
+2.  4. 
+a.  i. Follower tabtab 1. Subscribers ii.  1.  a.  b.  2.  a. You got a new subscriber! 3.  a. Congratulations! [] just subscribe you! iii. 
+b.  i.  ii.  iii. 
+5.  a.  tab i.  ii.  1.  2. ID 3.  4.  5.  a.  6. 
+
+a.  b.  iii.  1.  2.  b.  tab i. tab ii.  1.  2.  100% c.  i. / ii.  d.  6.  a.  i. 30 ii.  1. "" 2.  b.  i. Paypal ii. Stripe iii. SubscribStar c.  i.  1.  a. $50 2.  a. $500 3. 
+
+a. $2000 d. 
+i.  1.  2.  4
+e.  i.  ii. 
+7.  a.  i.  ii.  iii.  Auto Renew Off b. 
+3. 
+1.  a.  i. 20% ii. 80% b.  i.  1. 10% 2. 90% c. 
+2.  a.  b.  i.  ii.  1. 
+
+a.  b.  x  2.  a.  b.  x OC 3.  a.  b.  x 
+i.  ii.  iii.  iv. Memory iii. 
+4. 
+1. OC a. OC  i.  1. OC  a. Info  2.  a.  3. OC  a. OC 4.  a.  b.  c.  d.  ii.  1. 
+
+2.  a. 
+3.  a.  b.  i.  c.  i. hover ii. 
+b. OC i. OC 1.  a.  i.  1. You have not enabled the creator subscription feature. You need to turn it on first to create Pro Albums. ii.  1. Enable Creator Subscription 2. Cancel 2.  a.  b.  ii.  1.  a.  b.  i.  1. GIF 2. Webp c.  i. +
+
+ii.  1.  a.  i. This file format is not supported. Please select a different video file. b.  i. OK
+iii.  1.  a.  i. The file size is too large. Please compress or split the file before reuploading. b.  i. OK
+2.  a.  i.  b.  i.  c.  i. 
+3.  iii. 
+1.  2.  3.  4.  2. OC a.  i.  ii. 
+
+iii.  1.  2. 
+b.  i.  ii.  1.  a.  i.  1. You have not enabled the creator subscription feature. You need to turn it on first to create Pro Albums. ii.  1. Enable Creator Subscription 2. Cancel 2. 
+
+
