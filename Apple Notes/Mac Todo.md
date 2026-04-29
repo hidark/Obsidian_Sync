@@ -1,0 +1,66 @@
+- [ ] 文件迁移
+	- [ ] openclaow memory
+	- [x] claude memory
+	- [x] iCloud清理
+	- [x] 迁移到外置硬盘
+		- [x] Xcode
+		- [x] 微信
+		- [x] 飞书
+		- [x] 相册
+	- [x] download
+	- [x] 清理文件
+	- [x] obsidia
+	- [x] feishu downlaod
+- [ ] Terminal高效工具
+	- [ ] 分屏
+	- [ ] 多tab
+- [ ] Claude设置
+	- [ ] 其余项目
+	- [ ] spec工作流配置
+	- [x] crushon project项目
+- [ ] Openclaw配置
+	- [ ] cron任务
+	- [ ] 记忆
+- [ ] iterm2配置
+- [ ] edge tab同步
+	- [ ] 网站
+	- [ ] 账号登录
+	- [ ] 密码更新
+- [ ] github配置
+	- [ ] 登录
+	- [ ] 同步
+	- [ ] obsidian同步
+	- [ ] crushon同步
+ 软件安装
+	- [ ] notebook++
+	- [ ] Office
+	- [ ] github
+	- [ ] cursor
+	- [ ] hermess
+	- [x] Iterm2
+	- [x] openclaw
+	- [x] Claude
+	- [x] telegram
+	- [x] figma
+	- [x] player
+	- [x] clash
+	- [x] obsidian
+	- [x] chrome
+	- [x] 飞书
+	- [x] 微信
+	- [x] 豆包
+- [x] 系统软件设置
+	- [ ] 🟢automater
+	- [x] Xcode
+	- [x] Clash
+	- [x] appstore
+	- [x] finder
+	- [x] mail
+	- [x] note
+- [x] 账号设置
+	- [x] 公司wifi联网
+	- [x] figama
+	- [x] peekaboogames，gmail
+- [x] Chrome设置
+- [x] Safari设置
+- [x] 系统设置

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/Obsidian 深度应用指南.md",
+                "file": "Apple Notes/GG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian 深度应用指南"
+              "title": "GG"
             }
           }
         ]
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apple Notes/GG.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GG"
             }
           },
           {
@@ -205,47 +206,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "9fb14ed57a4c1159",
+  "active": "4fc4151e3e8271f3",
   "lastOpenFiles": [
-    "3-Resources/Obsidian 深度应用指南.md",
-    "4-Archive/Crushon/数据整理分析/活动效果深度评价报告_商品维度.md",
-    "0-Inbox/AI 访谈节目.md",
+    "Apple Notes/G.md",
+    "Apple Notes/App To Buy.md",
+    "Apple Notes/App.md",
+    "Apple Notes/7点半，北山村.md",
+    "Apple Notes/7-6-112.md",
+    "Apple Notes/－一.md",
+    "0_1.png",
+    "0_0.png",
+    "17731562050444_.pic_hd.jpg",
+    "v2-46d3d832ff509ad3e83813ae1a0bad20_1440w.jpg",
+    "Pasted Graphic 4.png",
+    "Screen Shot 2021-07-22 at 2.56.12 PM.png",
+    "Screen Shot 2021-07-22 at 2.11.41 PM.png",
+    "Pasted Graphic 2 1.png",
+    "Midgard_ASCII_characters_symbols_text-based_visuals_12e8c630-ef79-4416-808d-e7ed23abec9e.png",
+    "grid_0.png",
+    "2026-04-22.md",
     "2026-04-21.md",
-    "总表.base",
-    "测试文档.md",
-    "欢迎.md",
-    "Thoughts/AI Agent 模型智商与 Skill 能力辩证分析：核心框架、批判与深度推演.md",
-    "Thoughts/AI Agent模型智商与Skill能力辩证分析.md",
-    "Templates/Daily Notes.md",
-    "Templates/Weekly Review.md",
-    "Templates/季度回顾.md",
-    "4-Archive/技术调研/2D转3D技术调研报告.md",
-    "4-Archive/技术调研/手办模特游戏调研报告.md",
-    "4-Archive/技术调研",
-    "4-Archive/Crushon/数据整理分析/功能上线与营收关系分析报告-活动.md",
-    "4-Archive/Crushon/数据整理分析/revenue_analysis_260423.md",
-    "4-Archive/Crushon/数据整理分析/CO产品线上上线记录（2025-2026）.csv",
-    "4-Archive/Crushon/数据整理分析/260423-CO分商品收入.csv",
-    "4-Archive/Crushon/数据整理分析",
-    "4-Archive/Crushon/crushon商业模式.md",
-    "4-Archive/Crushon/Requirements/BasisTheory 支付路由/BasisTheory支付路由接入需求文档.md",
-    "4-Archive/Crushon/Requirements/BasisTheory 支付路由",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付系统组件设计文档.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付系统税费处理问答文档.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付系统优化产品需求文档PRD_v2.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付系统产品需求文档.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付系统交互设计文档.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付界面样式设计规范.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付流程详细设计.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付优化产品需求文档PRD.md",
-    "4-Archive/Crushon/Requirements/支付优化/CrushOn支付优化PRD脑图.md",
-    "4-Archive/Crushon/Requirements/支付优化",
-    "4-Archive/Crushon/Requirements/VAT税费/欧盟VAT税率表.csv",
-    "4-Archive/Crushon/竞品分析/AI聊天平台特色功能对比_最终版.xlsx",
-    "4-Archive/Crushon/Requirements/VAT税费",
+    "Apple Notes/Mac Todo.md",
+    "Apple Notes/Work/Peekaboo/面试/李梓瑜 一面.md",
+    "Apple Notes/zh.md",
+    "Apple Notes/Work/Peekaboo/账号.md",
+    "Apple Notes/歌单.md",
+    "Apple Notes/Work/Peekaboo/面试/段清樾-产品-一面.md",
+    "Apple Notes/list.md",
+    "Apple Notes/Work/Peekaboo/常用命令.md",
+    "Apple Notes/珠海-北京行李.md",
+    "Apple Notes/Work/Peekaboo/面试/面试 郭可超 26年应届生.md",
+    "Apple Notes/To eat.md",
+    "Apple Notes/Work/Peekaboo/Vercel（强烈推荐）.md",
+    "Apple Notes/收拾.md",
+    "Apple Notes/Work/Peekaboo/CO 工作流程.md",
+    "Apple Notes/Work/Peekaboo/Ticket 话术.md",
+    "Apple Notes/Work/Peekaboo/(5.12.0) OnlyPay 信用卡直连支付 CrushOn主站支付页面接入OnlyPay直连.md",
+    "Apple Notes/丰满.md",
+    "Apple Notes/Work/Peekaboo/wordsnap 账号同步.md",
+    "Image 4.heic",
+    "Image 3.heic",
+    "Image 2.heic",
+    "Image 1.heic",
+    "Image.heic",
+    "Pasted Graphic 2.tiff",
+    "Pasted Graphic 15.tiff",
+    "Pasted Graphic 10.tiff",
+    "Pasted Graphic 8.tiff",
+    "Pasted Graphic 7.tiff",
     "Untitled.canvas"
   ]
 }
